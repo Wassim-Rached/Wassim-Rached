@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wassim-Rached
 - 👀 I’m interested in web devolepment
-- 🌱 I’m currently learning js
+- 🌱 I’m currently learning MERN STACK
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me wassimrached404@gmail.com
 
