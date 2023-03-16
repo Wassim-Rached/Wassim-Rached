@@ -22,8 +22,11 @@ My name is Wassim Rached, and I'm a 19-year-old backend developer based in Douz 
 
 
 ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
+
 https://www.upwork.com/freelancers/~0188f7a702554aae07?p=1550041534295171072
+
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
 https://www.linkedin.com/in/wassim-rached-407994239
 
 
