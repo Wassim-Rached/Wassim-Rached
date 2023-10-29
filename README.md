@@ -1,38 +1,28 @@
-### 👨‍💻: About Me :
-My name is Wassim Rached, and I'm a 20-year-old backend developer based in Douz Sud, Kébili, Tunisia, currently pursuing my studies at the Higher Institute of Technological Studies in Charguia. My expertise lies in backend development, where I have honed my skills in popular frameworks such as Django and Express, as well as databases such as Redis, Postgres, and MongoDB. Additionally, I possess a basic knowledge of Docker, DevOps, and automation, which I believe are essential for modern software development. I have a passion for staying up-to-date with the latest trends and developments in the tech industry, and I am always eager to learn more about these topics. Continuously seeking new opportunities to expand my knowledge and improve my skills as a developer is one of my top priorities.
+### 👨‍💻 About Me
+- My name is Wassim Rached.
+- I'm a 20-year-old developer based in Douz Sud, Kébili, Tunisia.
+- Currently pursuing my studies at the Higher Institute of Technological Studies in Charguia.
+- I have expertise in both frontend and backend development.
+- Proficient in frontend technologies such as React, Angular, and Next.js.
+- Backend skills include frameworks like Django, Express, and Spring.
+- Familiar with databases like Postgres, MongoDB, Redis, Oracle, and MySQL.
+- Basic knowledge of Docker, DevOps, and automation.
+- Passionate about staying up-to-date with the latest tech trends.
 
+### 🛠️ Skills
+- **Frontend Development:** React, Angular, Next.js
+- **Backend Development:** Django, Express, Spring
+- **Databases:** Postgres, MongoDB, Redis, Oracle, MySQL
+- **DevOps:** Docker
+- **Programming Languages:** Python, JavaScript, TypeScript, Java , Sql
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wassim-Rached&show_icons=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wassim-Rached&layout=compact)](https://github.com/Wassim-Rached/github-readme-stats)
+### 💻 Accounts
+- [Upwork](https://www.upwork.com/freelancers/~0188f7a702554aae07)
+- [LinkedIn](https://www.linkedin.com/in/wassim-rached-407994239)
 
+### 🏆 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wassim-Rached&layout=donut&theme=outrun)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wassim-Rached&show_icons=true&theme=outrun)
 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### 💻: Accounts :
-
-![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
-
-https://www.upwork.com/freelancers/~0188f7a702554aae07
-
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
-https://www.linkedin.com/in/wassim-rached-407994239
-
-
-
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=wassim-rached&theme=dracula&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
