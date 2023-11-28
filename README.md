@@ -25,8 +25,11 @@
 - [LinkedIn](https://www.linkedin.com/in/wassim-rached-407994239)
 
 ### 🏆 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wassim-Rached&layout=donut&theme=outrun)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wassim-Rached&show_icons=true&theme=outrun)
+<details open>
+    <img style='width:100%;' src='https://github-readme-streak-stats-mbm.vercel.app/?user=wassim-rached&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=44C394&sideLabels=888888&background=FFFFFF00&ring=44C394&fire=44C394&currStreakNum=888888&sideNums=888888&currStreakLabel=44C394&dates=888888' />
+    <img style='width:60%;' src='https://github-readme-stats-mbm.vercel.app/api?username=wassim-rached&show_icons=true&count_private=true&title_color=43c394&text_color=888888&icon_color=43c394&bg_color=0d111700&cache_seconds=7200&hide_border=true&rank_icon=percentile&include_all_commits=false&show=reviews,prs_merged_percentage' />
+    <img style='width:39%;' src='https://github-readme-stats-mbm.vercel.app/api/top-langs/?username=wassim-rached&layout=compact&show_icons=true&count_private=true&langs_count=10&title_color=43c394&text_color=888888&icon_color=43c394&bg_color=0d111700&cache_seconds=7200&hide_border=true' />
+</details>
 
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=wassim-rached&theme=dracula&rank=SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
