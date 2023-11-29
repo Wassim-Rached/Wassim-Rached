@@ -3,7 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&weight=300&size=24&pause=1000&random=false&width=435&lines=Welcome+to+my+github+profile;Backend-oriented;frontend+capable)](https://git.io/typing-svg)
 
 ### 👨‍💻 About Me
-<details open>
 - My name is Wassim Rached.
 - I'm a 20-year-old developer based in Douz Sud, Kébili, Tunisia.
 - Currently pursuing my studies at the Higher Institute of Technological Studies in Charguia.
@@ -13,16 +12,13 @@
 - Familiar with databases like Postgres, MongoDB, Redis, Oracle, and MySQL.
 - Basic knowledge of Docker, DevOps, and automation.
 - Passionate about staying up-to-date with the latest tech trends.
-</details>
 
 ### 🛠️ Skills
-<details open>
 - **Frontend Development:** React, Angular, Next.js
 - **Backend Development:** Django, Express, Spring
 - **Databases:** Postgres, MongoDB, Redis, Oracle, MySQL
 - **DevOps:** Docker
 - **Programming Languages:** Python, JavaScript, TypeScript, Java , Sql
-</details>
 
 ### 💻 Accounts
 - [Upwork](https://www.upwork.com/freelancers/~0188f7a702554aae07)
