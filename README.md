@@ -4,7 +4,7 @@
 
 ### 👨‍💻 About Me
 - My name is Wassim Rached.
-- I'm a 20-year-old developer based in Douz Sud, Kébili, Tunisia.
+- I'm a Backend developer based in Douz Sud, Kébili, Tunisia.
 - Currently pursuing my studies at the Higher Institute of Technological Studies in Charguia.
 - I have expertise in both frontend and backend development.
 - Proficient in frontend technologies such as React, Angular, and Next.js.
@@ -18,7 +18,7 @@
 - **Backend Development:** Django, Express, Spring
 - **Databases:** Postgres, MongoDB, Redis, Oracle, MySQL
 - **DevOps:** Docker
-- **Programming Languages:** Python, JavaScript, TypeScript, Java , Sql
+- **Programming Languages:** Python, JavaScript, TypeScript, Java , PHP , Sql
 
 ### 💻 Accounts
 - [Upwork](https://www.upwork.com/freelancers/~0188f7a702554aae07)
