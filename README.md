@@ -15,9 +15,9 @@
 
 ### 🛠️ Skills
 - **Frontend Development:** React, Angular, Next.js
-- **Backend Development:** Django, Express, Spring
-- **Databases:** Postgres, MongoDB, Redis, Oracle, MySQL
-- **DevOps:** Docker
+- **Backend Development:** Django, Express, Spring, Symfony
+- **Databases:** Postgres, MongoDB, Redis, Oracle, MySQL, SQLite
+- **DevOps:** Docker, Nginx
 - **Programming Languages:** Python, JavaScript, TypeScript, Java , PHP , Sql
 
 ### 💻 Accounts
