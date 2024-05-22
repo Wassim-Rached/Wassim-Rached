@@ -8,17 +8,17 @@
 - Currently pursuing my studies at the Higher Institute of Technological Studies in Charguia.
 - I have expertise in both frontend and backend development.
 - Proficient in frontend technologies such as React, Angular, and Next.js.
-- Backend skills include frameworks like Django, Express, and Spring.
-- Familiar with databases like Postgres, MongoDB, Redis, Oracle, and MySQL.
-- Basic knowledge of Docker, DevOps, and automation.
+- Backend skills include frameworks like Django, Express, Symfony and Spring.
+- Familiar with databases like Postgres, MongoDB, Oracle, Redis, SQLite and MySQL.
+- Basic knowledge of Docker, Nginx, Github Actions, Azure, DevOps, and automation.
 - Passionate about staying up-to-date with the latest tech trends.
 
 ### 🛠️ Skills
 - **Frontend Development:** React, Angular, Next.js
 - **Backend Development:** Django, Express, Spring, Symfony
 - **Databases:** Postgres, MongoDB, Redis, Oracle, MySQL, SQLite
-- **DevOps:** Docker, Nginx
-- **Programming Languages:** Python, JavaScript, TypeScript, Java , PHP , Sql
+- **DevOps:** Docker, Nginx, Github Actions
+- **Programming Languages:** Python, TypeScript, Java , PHP , C, C++, Bash, Sql
 
 ### 💻 Accounts
 - [Upwork](https://www.upwork.com/freelancers/~0188f7a702554aae07)
