@@ -1,26 +1,23 @@
-# Hello Developers! 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&weight=300&size=24&pause=1000&random=false&width=435&lines=Welcome+To+My+Github+Profile;Backend-oriented;Frontend+Capable)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=poppins&weight=300&size=24&pause=1000&random=false&width=435&lines=Welcome+to+my+github+profile;Backend-oriented;frontend+capable)](https://git.io/typing-svg)
+## 👋 Wassim Rached | Backend Developer | Tunisia 🇹🇳
 
 ### 👨‍💻 About Me
-- My name is Wassim Rached.
-- I'm a Backend developer based in Douz Sud, Kébili, Tunisia.
-- Currently pursuing my studies at the Higher Institute of Technological Studies in Charguia.
-- I have expertise in both frontend and backend development.
-- Proficient in frontend technologies such as React, Angular, and Next.js.
-- Backend skills include frameworks like Django, Express, Symfony and Spring.
-- Familiar with databases like Postgres, MongoDB, Oracle, Redis, SQLite and MySQL.
-- Basic knowledge of Docker, Nginx, Github Actions, Azure, DevOps, and automation.
-- Passionate about staying up-to-date with the latest tech trends.
+- 📚 Studying at the Higher Institute of Technological Studies in Charguia.
+- 💻 Full-stack developer with expertise in frontend (React, Angular, Next.js) and backend (Django, Express, Symfony, Spring).
+- 🛢️ Experience with databases: PostgreSQL, MongoDB, Oracle, Redis, MySQL.
+- 🚀 Passionate about mastering software architecture and cloud engineering.
+- 📖 Always learning and exploring new technologies.
+- 🤝 Easy to work with, confident leader, and humble team player.
 
 ### 🛠️ Skills
 - **Frontend Development:** React, Angular, Next.js
 - **Backend Development:** Django, Express, Spring, Symfony
-- **Databases:** Postgres, MongoDB, Redis, Oracle, MySQL, SQLite
-- **DevOps:** Docker, Nginx, Github Actions
-- **Programming Languages:** Python, TypeScript, Java , PHP , C, C++, Bash, Sql
+- **Databases:** PostgreSQL, MongoDB, Redis, Oracle, MySQL
+- **DevOps:** Docker, Nginx, GitHub Actions, Azure
+- **Languages:** Python, TypeScript, Java, PHP, C, C++, SQL, Bash
 
-### 💻 Accounts
+### 📫 Connect with Me
 - [Upwork](https://www.upwork.com/freelancers/~0188f7a702554aae07)
 - [LinkedIn](https://www.linkedin.com/in/wassim-rached-407994239)
 
