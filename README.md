@@ -20,7 +20,7 @@
 ### 📫 Connect with Me
 - [Upwork](https://www.upwork.com/freelancers/~0188f7a702554aae07)
 - [LinkedIn](https://www.linkedin.com/in/wassim-rached-407994239)
-- [mail](mailto:wassimrached404@gmail.com)
+- [Email](mailto:wassimrached404@gmail.com)
 
 ### 🏆 GitHub Stats
 <details open>
